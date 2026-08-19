@@ -1,6 +1,6 @@
 #  TaskTracker
 
-A lightweight task management application that helps users organize daily tasks with a clean interface and stores data locally, so tasks remain available even after refreshing the page.
+A lightweight task management application that helps users organize daily tasks with a clean interface and stores data locally, so tasks remain available even after user refreshes the page.
 
 ## Live Demo
 
