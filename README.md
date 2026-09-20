@@ -1,6 +1,6 @@
 #  TaskTracker
 
-A daily task management application that help users to organize daily tasks with clean interface and stores users data locally so tasks remain available even after user refreshes browser page.
+A daily task management application that help users to organize daily tasks with clean interface and store users data locally so tasks remain available even after user refreshes browser page.
 
 ## Live Demo
 
